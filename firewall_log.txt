@@ -1,0 +1,4 @@
+[2025-02-12 12:33:56] [BLOCKED] 192.168.15.129 - Ping detected
+[2025-02-12 12:33:56] [BLOCKED] 192.168.15.129 - Blocked due to suspicious activity
+[2025-02-12 12:34:34] [BLOCKED] 192.168.15.129 - Nmap scan detected
+[2025-02-12 12:34:34] [BLOCKED] 192.168.15.129 - Blocked due to suspicious activity
